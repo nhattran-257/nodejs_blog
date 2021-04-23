@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "tessttt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhattran-257/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "test",
+    "nodejs",
+    "demo"
+  ],
+  "author": "sn257",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhattran-257/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/nhattran-257/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
